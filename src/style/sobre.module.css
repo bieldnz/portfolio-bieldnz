@@ -10,21 +10,9 @@
     background-color: #E5ABF5;
     width: 100%;
 }
-h1{
-    background: none;
-    background: -webkit-linear-gradient(#9A65A8, #E5ABF5);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    color: #9A65A8;
-    font-size: 3.5rem;
-    font-weight: 800;
-    padding-top: 3%;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-}
 #sobre{
-    margin-top: -60px;
+    background-color: #E5ABF5;
+    color: #9A65A8;
     padding: 0;
 }
 .boxSobre{
